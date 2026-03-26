@@ -1,2 +1,2 @@
-const APP_NAME = "null";
+const APP_NAME = "MySafeApp";
 console.log("Welcome to " + APP_NAME);
