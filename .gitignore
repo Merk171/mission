@@ -1,1 +1,4 @@
-auth.js .log 
+*.log
+keys.txt
+auth.conf 
+temp
